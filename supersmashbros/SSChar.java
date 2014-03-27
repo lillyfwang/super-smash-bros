@@ -1,5 +1,4 @@
  
-
 import ucigame.*;
 
 public class SSChar
